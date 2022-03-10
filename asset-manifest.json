@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dentist-app/static/css/main.da02bffd.css",
+    "main.js": "/dentist-app/static/js/main.3ed5526a.js",
+    "static/js/787.27d80096.chunk.js": "/dentist-app/static/js/787.27d80096.chunk.js",
+    "static/media/tfBackground.jpg": "/dentist-app/static/media/tfBackground.8ec8cd7b61b695717e02.jpg",
+    "static/media/toof.png": "/dentist-app/static/media/toof.a06589406523c5fdf56e.png",
+    "static/media/tfLogo.png": "/dentist-app/static/media/tfLogo.c8faa3c44a11d732bb09.png",
+    "index.html": "/dentist-app/index.html",
+    "main.da02bffd.css.map": "/dentist-app/static/css/main.da02bffd.css.map",
+    "main.3ed5526a.js.map": "/dentist-app/static/js/main.3ed5526a.js.map",
+    "787.27d80096.chunk.js.map": "/dentist-app/static/js/787.27d80096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da02bffd.css",
+    "static/js/main.3ed5526a.js"
+  ]
+}
