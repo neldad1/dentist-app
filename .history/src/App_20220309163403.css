@@ -1,0 +1,57 @@
+.layout {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('/public/cropped.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: whitesmoke;
+}
+
+.navigation {
+  background-color: inherit;;
+}
+
+.logo {
+  width: 200px;
+  height: 50px;
+  float: left;
+  margin-top: 4px;
+}
+
+.footer {
+  color: white;
+}
+
+.content, .home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro-wrapper {
+  text-align: center;
+}
+
+.home {
+  
+  
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.content-wrapper {
+  width: 50%;
+  font-family: 'Segoe UI', sans-serif;
+  margin-left: 10em;
+}
+.tagline1 {
+  font-weight: bolder;
+  font-size: 3em;
+  margin: 0
+}
+.tagline2 {
+  font-size: 1em;
+}
+

@@ -1,0 +1,100 @@
+
+h1 {
+  font-size: 2.5em;
+}
+
+.layout {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background: #fff;
+}
+
+.header {
+  background: #fff;
+  padding: 0 1em;
+}
+
+.menu {
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.logo {
+  width: 200px;
+  height: 50px;
+  float: left;
+  margin-top: 4px;
+}
+
+.footer {
+  background: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.footer-menu {
+  flex: 1;
+}
+
+.intro-wrapper {
+  text-align: center;
+}
+
+.home {
+  width: 100%;
+  height: 100%;
+  margin: 2em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('/public/tfBackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.content-wrapper {
+  width: 50%;
+  font-family: 'Segoe UI', sans-serif;
+  margin-left: 10em;
+  color: whitesmoke;
+  display: block;
+}
+.tagline1 {
+  font-weight: bolder;
+  font-size: 2em;
+  margin: 0;
+  line-height: 1;
+}
+
+.contact-form {
+  text-align: left;
+}
+
+.main-content {
+  height: 100%;
+  width: 60%;
+  overflow-y: scroll;
+  display: block;
+  margin: 2em auto;
+}
+
+.service-info {
+  display: flex;
+  text-align: left;
+  margin-bottom: 1em;
+  align-items: center;
+}
+
+.service-definition {
+  margin-left: 1.5em;
+}
+
+@media screen and (max-width: 768px) {
+  .main-content {
+    width: 100%;
+    margin: 0.5em;
+  }
+}

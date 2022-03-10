@@ -1,0 +1,13 @@
+.layout {
+  height: 95vh;
+  width: 95vw;
+}
+
+.home {
+  background-image: url('/public/the-humble-co-cADflhZzgyo-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+

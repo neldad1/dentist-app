@@ -1,0 +1,27 @@
+.layout {
+  margin: 2% auto;
+  height: 95vh;
+  width: 95vw;
+  text-align: center;
+  /* background-color: transparent; */
+}
+
+.navigation {
+  background-color: inherit;;
+}
+.content, .home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home {
+  background-image: url('/public/the-humble-co-cADflhZzgyo-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  
+}
+
