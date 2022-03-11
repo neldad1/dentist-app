@@ -47,7 +47,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/public/tfBackground.jpg');
+  background-image: url('../public/tfBackground.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }

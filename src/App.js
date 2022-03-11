@@ -11,7 +11,7 @@ const { Header, Footer, Content } = Layout;
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/dentist-app">
       <Layout className="layout">
         <Header className="header">
           <HeaderLogo />
